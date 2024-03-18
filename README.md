@@ -1,2 +1,2 @@
-# DSCB230 Übung
-Aufgaben und Code
+# DSCB230 Übung - Gemeinsam programmieren
+Sommersemester 2024
